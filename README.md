@@ -1,6 +1,8 @@
 # tENDERis3_S1
-Klipper Configuration file for stock Creality Ender 3 S1 F4
-Version 2.8_040823
+
+### Klipper Configuration file for stock Creality Ender 3 S1 F4
+
+### Version 2.8_040823
 
   - Stock Ender 3 S1 configuration
   - CR-Touch bed leveling 9x9 with fading enabled
